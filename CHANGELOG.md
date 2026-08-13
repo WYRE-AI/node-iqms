@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/wyre-technology/node-iqms/compare/v1.0.1...v1.0.2) (2026-08-13)
+
+
+### Bug Fixes
+
+* **ci:** bump add-to-project reusable-workflow pin to post-[#44](https://github.com/wyre-technology/node-iqms/issues/44) SHA ([#32](https://github.com/wyre-technology/node-iqms/issues/32)) ([7b4c479](https://github.com/wyre-technology/node-iqms/commit/7b4c479b61c6f6cffd66b41382ebbf0ad72e8814))
+
 ## [1.0.1](https://github.com/wyre-technology/node-iqms/compare/v1.0.0...v1.0.1) (2026-07-23)
 
 
