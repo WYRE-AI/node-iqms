@@ -62,7 +62,7 @@ jobs:
         with:
           node-version: '22.x'
           registry-url: 'https://npm.pkg.github.com'
-          scope: '@wyre-technology'
+          scope: '@wyre-ai'
           cache: 'npm'
 
       - name: Install dependencies
