@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/WYRE-AI/node-iqms/compare/v1.0.2...v1.0.3) (2026-08-25)
+
+
+### Bug Fixes
+
+* migrate to WYRE-AI org (npm scope, ghcr namespace, registry) ([#34](https://github.com/WYRE-AI/node-iqms/issues/34)) ([6c45cb1](https://github.com/WYRE-AI/node-iqms/commit/6c45cb1beea1c3419e57b2b2714812666897bb6f))
+
 ## [1.0.2](https://github.com/wyre-technology/node-iqms/compare/v1.0.1...v1.0.2) (2026-08-13)
 
 
