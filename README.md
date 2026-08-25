@@ -1,4 +1,4 @@
-# `@wyre-technology/node-iqms`
+# `@wyre-ai/node-iqms`
 
 Node.js / TypeScript client library for **IQMS / DELMIAworks** (EnterpriseIQ),
 the manufacturing ERP from Dassault Systèmes.
@@ -23,14 +23,14 @@ client throws a clear `DriverNotConfiguredError`.
 ## Install
 
 ```bash
-npm install @wyre-technology/node-iqms
+npm install @wyre-ai/node-iqms
 ```
 
-Configure `.npmrc` so npm can resolve the `@wyre-technology` scope from
+Configure `.npmrc` so npm can resolve the `@wyre-ai` scope from
 GitHub Packages:
 
 ```
-@wyre-technology:registry=https://npm.pkg.github.com
+@wyre-ai:registry=https://npm.pkg.github.com
 //npm.pkg.github.com/:_authToken=${GITHUB_TOKEN}
 ```
 
@@ -40,7 +40,7 @@ on the host running the SDK. See [Oracle's installation guide](https://node-orac
 ## Quick start
 
 ```ts
-import { IqmsClient } from '@wyre-technology/node-iqms';
+import { IqmsClient } from '@wyre-ai/node-iqms';
 
 const client = new IqmsClient({
   oracle: {
@@ -70,7 +70,7 @@ import {
   DriverNotConfiguredError,
   NotImplementedError,
   OracleError,
-} from '@wyre-technology/node-iqms';
+} from '@wyre-ai/node-iqms';
 ```
 
 ## License
